@@ -1,7 +1,7 @@
 HotelApp
 ========
 
-change to test jenkins
+blabla
 
 #Information
 Source code of the Java example available at http://www.javaworld.com/article/2072203/build-ci-sdlc/an-introduction-to-maven-2.html .
